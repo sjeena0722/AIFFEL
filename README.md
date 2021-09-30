@@ -1,5 +1,5 @@
 # AIFFEL
 
-## EXPLORATION  
+## EXPLORATION 
 
 
